@@ -1,0 +1,24 @@
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.Domain\bin\Debug\net6.0\SampleEmployeeService.Domain.deps.json
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.Domain\bin\Debug\net6.0\SampleEmployeeService.Domain.dll
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.Domain\bin\Debug\net6.0\SampleEmployeeService.Domain.pdb
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.Domain\obj\Debug\net6.0\SampleEmployeeService.Domain.csproj.AssemblyReference.cache
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.Domain\obj\Debug\net6.0\SampleEmployeeService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.Domain\obj\Debug\net6.0\SampleEmployeeService.Domain.AssemblyInfoInputs.cache
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.Domain\obj\Debug\net6.0\SampleEmployeeService.Domain.AssemblyInfo.cs
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.Domain\obj\Debug\net6.0\SampleEmployeeService.Domain.csproj.CoreCompileInputs.cache
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.Domain\obj\Debug\net6.0\SampleEmployeeService.Domain.dll
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.Domain\obj\Debug\net6.0\refint\SampleEmployeeService.Domain.dll
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.Domain\obj\Debug\net6.0\SampleEmployeeService.Domain.pdb
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.Domain\obj\Debug\net6.0\ref\SampleEmployeeService.Domain.dll
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Domain\bin\Debug\net6.0\SampleEmployeeService.Domain.deps.json
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Domain\bin\Debug\net6.0\SampleEmployeeService.Domain.dll
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Domain\bin\Debug\net6.0\SampleEmployeeService.Domain.pdb
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Domain\obj\Debug\net6.0\SampleEmployeeService.Domain.csproj.AssemblyReference.cache
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Domain\obj\Debug\net6.0\SampleEmployeeService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Domain\obj\Debug\net6.0\SampleEmployeeService.Domain.AssemblyInfoInputs.cache
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Domain\obj\Debug\net6.0\SampleEmployeeService.Domain.AssemblyInfo.cs
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Domain\obj\Debug\net6.0\SampleEmployeeService.Domain.csproj.CoreCompileInputs.cache
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Domain\obj\Debug\net6.0\SampleEmployeeService.Domain.dll
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Domain\obj\Debug\net6.0\refint\SampleEmployeeService.Domain.dll
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Domain\obj\Debug\net6.0\SampleEmployeeService.Domain.pdb
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Domain\obj\Debug\net6.0\ref\SampleEmployeeService.Domain.dll

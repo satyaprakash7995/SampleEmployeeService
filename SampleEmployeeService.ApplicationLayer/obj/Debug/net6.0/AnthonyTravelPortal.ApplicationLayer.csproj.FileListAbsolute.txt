@@ -1,0 +1,15 @@
+E:\March30\AnthonyTravel\AnthonyTravelPortal.ApplicationLayer\bin\Debug\net6.0\AnthonyTravelPortal.ApplicationLayer.deps.json
+E:\March30\AnthonyTravel\AnthonyTravelPortal.ApplicationLayer\bin\Debug\net6.0\AnthonyTravelPortal.ApplicationLayer.dll
+E:\March30\AnthonyTravel\AnthonyTravelPortal.ApplicationLayer\bin\Debug\net6.0\ref\AnthonyTravelPortal.ApplicationLayer.dll
+E:\March30\AnthonyTravel\AnthonyTravelPortal.ApplicationLayer\bin\Debug\net6.0\AnthonyTravelPortal.ApplicationLayer.pdb
+E:\March30\AnthonyTravel\AnthonyTravelPortal.ApplicationLayer\bin\Debug\net6.0\AnthonyTravelPortal.Domain.dll
+E:\March30\AnthonyTravel\AnthonyTravelPortal.ApplicationLayer\bin\Debug\net6.0\AnthonyTravelPortal.Domain.pdb
+E:\March30\AnthonyTravel\AnthonyTravelPortal.ApplicationLayer\obj\Debug\net6.0\AnthonyTravelPortal.ApplicationLayer.csproj.AssemblyReference.cache
+E:\March30\AnthonyTravel\AnthonyTravelPortal.ApplicationLayer\obj\Debug\net6.0\AnthonyTravelPortal.ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\March30\AnthonyTravel\AnthonyTravelPortal.ApplicationLayer\obj\Debug\net6.0\AnthonyTravelPortal.ApplicationLayer.AssemblyInfoInputs.cache
+E:\March30\AnthonyTravel\AnthonyTravelPortal.ApplicationLayer\obj\Debug\net6.0\AnthonyTravelPortal.ApplicationLayer.AssemblyInfo.cs
+E:\March30\AnthonyTravel\AnthonyTravelPortal.ApplicationLayer\obj\Debug\net6.0\AnthonyTravelPortal.ApplicationLayer.csproj.CoreCompileInputs.cache
+E:\March30\AnthonyTravel\AnthonyTravelPortal.ApplicationLayer\obj\Debug\net6.0\AnthonyTravelPortal.ApplicationLayer.csproj.CopyComplete
+E:\March30\AnthonyTravel\AnthonyTravelPortal.ApplicationLayer\obj\Debug\net6.0\AnthonyTravelPortal.ApplicationLayer.dll
+E:\March30\AnthonyTravel\AnthonyTravelPortal.ApplicationLayer\obj\Debug\net6.0\ref\AnthonyTravelPortal.ApplicationLayer.dll
+E:\March30\AnthonyTravel\AnthonyTravelPortal.ApplicationLayer\obj\Debug\net6.0\AnthonyTravelPortal.ApplicationLayer.pdb

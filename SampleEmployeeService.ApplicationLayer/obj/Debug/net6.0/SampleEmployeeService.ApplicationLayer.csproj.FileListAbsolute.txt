@@ -1,0 +1,20 @@
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\obj\Debug\net6.0\SampleEmployeeService.ApplicationLayer.csproj.AssemblyReference.cache
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\obj\Debug\net6.0\SampleEmployeeService.ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\obj\Debug\net6.0\SampleEmployeeService.ApplicationLayer.AssemblyInfoInputs.cache
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\obj\Debug\net6.0\SampleEmployeeService.ApplicationLayer.AssemblyInfo.cs
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\obj\Debug\net6.0\SampleEmployeeService.ApplicationLayer.csproj.CoreCompileInputs.cache
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\bin\Debug\net6.0\SampleEmployeeService.ApplicationLayer.deps.json
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\bin\Debug\net6.0\SampleEmployeeService.ApplicationLayer.dll
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\bin\Debug\net6.0\SampleEmployeeService.ApplicationLayer.pdb
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\bin\Debug\net6.0\SampleEmployeeService.Domain.dll
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\bin\Debug\net6.0\SampleEmployeeService.Domain.pdb
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\obj\Debug\net6.0\SampleEmployeeService.ApplicationLayer.csproj.AssemblyReference.cache
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\obj\Debug\net6.0\SampleEmployeeService.ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\obj\Debug\net6.0\SampleEmployeeService.ApplicationLayer.AssemblyInfoInputs.cache
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\obj\Debug\net6.0\SampleEmployeeService.ApplicationLayer.AssemblyInfo.cs
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\obj\Debug\net6.0\SampleEmployeeService.ApplicationLayer.csproj.CoreCompileInputs.cache
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\obj\Debug\net6.0\SampleEmployeeService.ApplicationLayer.csproj.CopyComplete
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\obj\Debug\net6.0\SampleEmployeeService.ApplicationLayer.dll
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\obj\Debug\net6.0\refint\SampleEmployeeService.ApplicationLayer.dll
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\obj\Debug\net6.0\SampleEmployeeService.ApplicationLayer.pdb
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.ApplicationLayer\obj\Debug\net6.0\ref\SampleEmployeeService.ApplicationLayer.dll

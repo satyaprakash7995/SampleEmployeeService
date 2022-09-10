@@ -1,0 +1,24 @@
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.Infrastructure\obj\Debug\net6.0\SampleEmployeeService.Infrastructure.csproj.AssemblyReference.cache
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.Infrastructure\obj\Debug\net6.0\SampleEmployeeService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.Infrastructure\obj\Debug\net6.0\SampleEmployeeService.Infrastructure.AssemblyInfoInputs.cache
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.Infrastructure\obj\Debug\net6.0\SampleEmployeeService.Infrastructure.AssemblyInfo.cs
+I:\SatyaWork\SampleEmployeeService\SampleEmployeeService.Infrastructure\obj\Debug\net6.0\SampleEmployeeService.Infrastructure.csproj.CoreCompileInputs.cache
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\bin\Debug\net6.0\SampleEmployeeService.Infrastructure.deps.json
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\bin\Debug\net6.0\SampleEmployeeService.Infrastructure.runtimeconfig.json
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\bin\Debug\net6.0\SampleEmployeeService.Infrastructure.dll
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\bin\Debug\net6.0\SampleEmployeeService.Infrastructure.pdb
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\bin\Debug\net6.0\SampleEmployeeService.ApplicationLayer.dll
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\bin\Debug\net6.0\SampleEmployeeService.Domain.dll
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\bin\Debug\net6.0\SampleEmployeeService.ApplicationLayer.pdb
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\bin\Debug\net6.0\SampleEmployeeService.Domain.pdb
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\obj\Debug\net6.0\SampleEmployeeService.Infrastructure.csproj.AssemblyReference.cache
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\obj\Debug\net6.0\SampleEmployeeService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\obj\Debug\net6.0\SampleEmployeeService.Infrastructure.AssemblyInfoInputs.cache
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\obj\Debug\net6.0\SampleEmployeeService.Infrastructure.AssemblyInfo.cs
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\obj\Debug\net6.0\SampleEmployeeService.Infrastructure.csproj.CoreCompileInputs.cache
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\obj\Debug\net6.0\SampleEmployeeService.Infrastructure.csproj.CopyComplete
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\obj\Debug\net6.0\SampleEmployeeService.Infrastructure.dll
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\obj\Debug\net6.0\refint\SampleEmployeeService.Infrastructure.dll
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\obj\Debug\net6.0\SampleEmployeeService.Infrastructure.pdb
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\obj\Debug\net6.0\SampleEmployeeService.Infrastructure.genruntimeconfig.cache
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService.Infrastructure\obj\Debug\net6.0\ref\SampleEmployeeService.Infrastructure.dll
