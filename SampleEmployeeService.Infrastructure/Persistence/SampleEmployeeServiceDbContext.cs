@@ -15,6 +15,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.Extensions.Options;
 
 namespace SampleEmployeeService.Infrastructure.Persistence
 {
@@ -26,10 +27,7 @@ namespace SampleEmployeeService.Infrastructure.Persistence
 
         private readonly IDateTimeService _dateTime;
 
-        //public SampleEmployeeServiceDbContext() : base("EmployeeDB")
-        //{
-        //    Database.SetInitializer(new MigrateDatabaseToLatestVersion<SchoolDBContext, EF6Console.Migrations.Configuration>());
-        //}
+        
         public SampleEmployeeServiceDbContext(DbContextOptions<SampleEmployeeServiceDbContext> options) : base(options)
         {
             
@@ -75,17 +73,13 @@ namespace SampleEmployeeService.Infrastructure.Persistence
 
         internal static SampleEmployeeServiceDbContext CreateContext()
         {
-            var configuration = new ConfigurationBuilder()
-                .AddJsonFile(Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json"))
-                .AddUserSecrets(Assembly.GetExecutingAssembly(), true)
-                .AddEnvironmentVariables()
-                .Build()
-                .GetConnectionString("DefaultConnection");
-
-            return new SampleEmployeeServiceDbContext(
-                new DbContextOptionsBuilder<SampleEmployeeServiceDbContext>()
-                    .UseSqlServer(configuration)
-                    .Options);
+            return new SampleEmployeeServiceDbContext(new DbContextOptionsBuilder<SampleEmployeeServiceDbContext>()
+                .UseSqlServer(new ConfigurationBuilder()
+                    .AddJsonFile(Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json"))
+                    .AddUserSecrets(Assembly.GetExecutingAssembly())
+                    .AddEnvironmentVariables()
+                    .Build()
+                    .GetConnectionString("DefaultConnection")).Options);          
         }
 
 

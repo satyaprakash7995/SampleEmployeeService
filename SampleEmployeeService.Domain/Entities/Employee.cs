@@ -13,7 +13,6 @@ namespace SampleEmployeeService.Domain.Entities
     [Table("Employees")]
     public class Employee : AuditBaseEntity
     {
-        [Column("Id")]
         public int EmployeeId { get; set; }
 
         [StringLength(30)]

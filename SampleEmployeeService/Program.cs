@@ -1,11 +1,13 @@
+using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using SampleEmployeeService.ApplicationLayer.Extensions;
 using SampleEmployeeService.Infrastructure.Extensions;
 using SampleEmployeeService.Infrastructure.Persistence;
 using SampleEmployeeService.Profiles;
+using System.Reflection;
 
- var builder = WebApplication.CreateBuilder(args); ;
+var builder = WebApplication.CreateBuilder(args); ;
 
 // Add services to the container.
 

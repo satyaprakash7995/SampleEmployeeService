@@ -52,9 +52,8 @@ namespace SampleEmployeeService.Infrastructure.Extensions
         }
         private static IServiceCollection AddSharedServices(this IServiceCollection services)
         {
-            services.AddTransient<IApplicationUserRepository, ApplicationUserRepository>();
-            services.AddTransient<IDateTimeService, DateTimeService>();
             services.AddScoped<ICurrentUserService, CurrentUserService>();
+            services.AddTransient<IDateTimeService, DateTimeService>();
             return services;
         }
 

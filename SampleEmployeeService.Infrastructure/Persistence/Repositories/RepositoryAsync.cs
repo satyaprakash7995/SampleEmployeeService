@@ -13,17 +13,15 @@ namespace SampleEmployeeService.Infrastructure.Persistence.Repositories
 {
     public class RepositoryAsync<T> : IRepositoryAsync<T> where T : class
     {
-        protected readonly DbContext _dbContext;
-        protected readonly IConfiguration _configuration;
+        private readonly SampleEmployeeServiceDbContext _dbContext;
 
-        public RepositoryAsync(DbContext context, IConfiguration configuration)
+        public RepositoryAsync(SampleEmployeeServiceDbContext dbContext)
         {
-            _dbContext = context;
-            _configuration = configuration;
+            _dbContext = dbContext;
         }
 
         public IQueryable<T> Entities => _dbContext.Set<T>();
-        
+
         public async Task<T> AddAsync(T entity)
         {
             await _dbContext.Set<T>().AddAsync(entity);
@@ -34,8 +32,14 @@ namespace SampleEmployeeService.Infrastructure.Persistence.Repositories
         {
             _dbContext.Set<T>().Remove(entity);
             return Task.CompletedTask;
-        }     
-        
+        }
+
+        public Task RemoveRange(IEnumerable<T> entities)
+        {
+            _dbContext.Set<T>().RemoveRange(entities);
+            return Task.CompletedTask;
+        }
+
         public async Task<List<T>> GetAllAsync()
         {
             return await _dbContext
@@ -64,33 +68,6 @@ namespace SampleEmployeeService.Infrastructure.Persistence.Repositories
             return Task.CompletedTask;
         }
 
-        public Task AddRange(IEnumerable<T> entities)
-        {
-            _dbContext.Set<T>().AddRange(entities);
-            return Task.CompletedTask;
-        }
-        public Task RemoveRange(IEnumerable<T> entities)
-        {
-            _dbContext.Set<T>().RemoveRange(entities);
-            return Task.CompletedTask;
-        }
-        public virtual void UpdateFromModel(T entity, object model)
-        {
-            _dbContext.Entry(entity).CurrentValues.SetValues(model);
-        }
-        public virtual int Count()
-        {
-            return Entities.Count();
-        }
-        public virtual bool Exists(Expression<Func<T, bool>> predicate)
-        {
-            return Entities.Any(predicate);
-        }              
-
-        public virtual IEnumerable<T> GetAll()
-        {
-            return Entities.ToList();
-        }
 
     }
 }

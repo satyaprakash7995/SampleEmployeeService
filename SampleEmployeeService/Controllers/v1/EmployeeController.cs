@@ -60,16 +60,18 @@ namespace SampleEmployeeService.Controllers.v1
         [HttpPost]
         [ProducesResponseType(200)]
         [ProducesResponseType(400)]
-        public async Task<ActionResult<BaseResponseResult<CreateOrUpdateEmployeeDto>>> Post([FromBody] CreateOrUpdateEmployeeDto employee)
+        public async Task<ActionResult> Post([FromBody] EmployeeVm employee)
+        
         {
             BaseResponseResult<CreateOrUpdateEmployeeDto> result;
             try
             {
                 if (ModelState.IsValid)
                 {
+                    var emp = Mapper.Map<CreateOrUpdateEmployeeDto>(employee);
                     result = await Mediator.Send(new CreateOrUpdateEmployeeCommand
                     {
-                        CreateEmployeeDto = employee
+                        CreateEmployeeDto = emp
                     });
                     return Ok(result);
                 }
@@ -85,11 +87,12 @@ namespace SampleEmployeeService.Controllers.v1
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesDefaultResponseType]
-        public async Task<ActionResult<BaseResponseResult<CreateOrUpdateEmployeeDto>>> Put([FromBody] CreateOrUpdateEmployeeDto employee)
+        public async Task<ActionResult> Put([FromBody] EmployeeVm employee)
         {
+            var emp = Mapper.Map<CreateOrUpdateEmployeeDto>(employee);
             var result = await Mediator.Send(new CreateOrUpdateEmployeeCommand
             {
-                CreateEmployeeDto = employee
+                CreateEmployeeDto = emp
             });
             return NoContent();
         }

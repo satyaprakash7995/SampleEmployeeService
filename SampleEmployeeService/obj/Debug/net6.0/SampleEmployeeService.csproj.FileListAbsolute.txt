@@ -110,7 +110,6 @@ E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService\obj\Debug\net6.
 E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService\obj\Debug\net6.0\SampleEmployeeService.AssemblyInfoInputs.cache
 E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService\obj\Debug\net6.0\SampleEmployeeService.AssemblyInfo.cs
 E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService\obj\Debug\net6.0\SampleEmployeeService.csproj.CoreCompileInputs.cache
-E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService\obj\Debug\net6.0\SampleEmployeeService.MvcApplicationPartsAssemblyInfo.cs
 E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService\obj\Debug\net6.0\SampleEmployeeService.MvcApplicationPartsAssemblyInfo.cache
 E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService\obj\Debug\net6.0\staticwebassets.build.json
 E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService\obj\Debug\net6.0\staticwebassets.development.json
@@ -121,3 +120,6 @@ E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService\obj\Debug\net6.
 E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService\obj\Debug\net6.0\SampleEmployeeService.pdb
 E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService\obj\Debug\net6.0\SampleEmployeeService.genruntimeconfig.cache
 E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService\obj\Debug\net6.0\ref\SampleEmployeeService.dll
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService\bin\Debug\net6.0\Humanizer.dll
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MyWork\New folder\SampleEmployeeService\SampleEmployeeService\obj\Debug\net6.0\SampleEmployeeService.MvcApplicationPartsAssemblyInfo.cs

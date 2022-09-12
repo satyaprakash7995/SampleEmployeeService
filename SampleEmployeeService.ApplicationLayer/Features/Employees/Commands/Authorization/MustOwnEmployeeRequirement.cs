@@ -31,19 +31,19 @@ namespace SampleEmployeeService.ApplicationLayer.Features.Employees.Commands.Aut
                 MustOwnEmployeeRequirement request,
                 CancellationToken cancellationToken)
             {
-                var isCreateEmployeeCommand = request.EmployeeId == null;
+                var isCreateEmployeeCommand = request.EmployeeId == null || request.EmployeeId == 0; 
                 if (isCreateEmployeeCommand)
                 {
                     return AuthorizationResult.Succeed();
                 }
 
-                var isUserClient = await _dbContext.Employees
+                var isUserEmployee = await _dbContext.Employees
                     .AnyAsync(x =>
                         x.EmployeeId == request.EmployeeId, cancellationToken);
 
-                return isUserClient
+                return isUserEmployee
                     ? AuthorizationResult.Succeed()
-                    : AuthorizationResult.Fail("You don't own this Client to view.");
+                    : AuthorizationResult.Fail("You don't own this Employee to view.");
             }
         }
     }

@@ -16,6 +16,5 @@ namespace SampleEmployeeService.ApplicationLayer.Common.Interfaces.Repositories
         Task UpdateAsync(T entity);
         Task DeleteAsync(T entity);
         Task RemoveRange(IEnumerable<T> entities);
-        Task AddRange(IEnumerable<T> entities);
     }
 }

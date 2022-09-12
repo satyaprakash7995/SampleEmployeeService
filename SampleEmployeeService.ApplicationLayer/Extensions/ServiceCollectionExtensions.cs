@@ -17,9 +17,9 @@ namespace SampleEmployeeService.ApplicationLayer.Extensions
     {
         public static void AddApplicationLayer(this IServiceCollection services)
         {
+            services.AddMediatR(AppDomain.CurrentDomain.GetAssemblies());
             services.AddAutoMapper(Assembly.GetExecutingAssembly());
             services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
-            services.AddMediatR(Assembly.GetExecutingAssembly());
 
             services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehaviour<,>));
             services.AddDomainAuthorization();
